@@ -83,5 +83,5 @@ Increasing renewable generation, strong EV market growth and declining emissions
 ## Files Included
 
 - Excel Dashboard Workbook (.xlsx)
-- Dashboard Screenshots
+- Dashboard Screenshot
 - Data Source Documentation
